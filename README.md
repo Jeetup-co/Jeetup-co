@@ -11,7 +11,8 @@ I work with **Python, SQL, and Power BI** to solve real-world problems — from 
 | Category | Tools |
 |---|---|
 | Languages | Python, SQL |
-| Libraries | Pandas, NumPy, Matplotlib, Seaborn |
+| Libraries | Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels |
+| Statistics | Descriptive Statistics, Hypothesis Testing, Probability & Distributions |
 | BI & Dashboards | Power BI, DAX |
 | Database | SQLite3 |
 | Environment | Jupyter Notebook, Google Colab |
