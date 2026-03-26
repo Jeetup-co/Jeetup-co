@@ -1,6 +1,6 @@
 # Hi, I'm Jeet Upadhyay 👋
 
-**Aspiring Data Analyst** based in India, passionate about turning raw data into clear business insights.
+**Data Analyst** based in India, passionate about turning raw data into clear business insights.
 
 I work with **Python, SQL, and Power BI** to solve real-world problems — from predicting employee attrition to analysing e-commerce sales patterns.
 
