@@ -1,4 +1,4 @@
-# Hi, I'm Jeet Upadhyay 👋
+# Hi, I'm Jitendra Upadhyay 👋
 
 **Data Analyst** based in India, passionate about turning raw data into clear business insights.
 
